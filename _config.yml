@@ -1,6 +1,6 @@
 ---
 source      : .
-#destination : ../_site
+destination : ../_site
 lsi         : false
 safe        : true
 incremental : false

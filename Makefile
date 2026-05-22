@@ -5,7 +5,7 @@ web	:
 
 
 local	:
-	bundle exec jekyll serve --baseurl "/iannelli"
+	bundle exec jekyll serve #--baseurl "/iannelli"
 
 clean	:
 	rm -fr ../_site/

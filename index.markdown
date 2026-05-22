@@ -61,10 +61,13 @@ I am available on the following *social networks*: click on the images for getti
     <a href="http://www.researchgate.net/profile/Luigi_Iannelli" title="ResearchGate" target="_blank"><img src="images/RG.jpg" align="right" alt="" style="width:144px;" border="1px;" /></a>
   </div>
 
-  <div style="width:100px; position:absolute; top:60px; left:14px;">
-    <!-- ResearcherID  -->
+  <div style="width:144px; position:absolute; top:60px; left:14px;">
+    <a href="https://orcid.org/0000-0003-2034-0005" aria-label="View ORCID record - 0000-0002-2771-9344"> <img src="images/ORCID Logotype with tagline.png" alt="ORCID iD" width="144" /></a>
+
+    <!--  ResearcherID 
     <span id='badgeCont256415' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont256415&mashlet=badge&showTitle=false&className=a&rid=F-3225-2010'></script>
-    </span>
+    </span> 
+    -->
   </div>
 
   <div style="position:absolute; width:144px; top:86px; left:299px;">
